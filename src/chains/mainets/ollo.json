@@ -1,3 +1,4 @@
+{
 "chain_name": "ollo",
     "api": ["https://ollo-testnet.rpc.kjnodes.com/"], 
     "rpc": ["https://ollo-testnet.rpc.kjnodes.com/"],
