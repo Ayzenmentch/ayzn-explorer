@@ -1,5 +1,5 @@
 {
-"chain_name": "ollo",
+"chain_name": "source",
     "api": ["api": https://source-testnet.api.kjnodes.com"],
     "rpc": ["rpc": ["https://source-testnet.rpc.kjnodes.com"],
     "sdk_version": "0.45.1",
@@ -10,8 +10,8 @@
         "symbol": "SOURCE",
         "exponent": "6",
         "coingecko_id": "", 
-        "logo": "https: //raw.github.com/Ayzenmentch/ayzn-explorer/Ayzn-2/public/logos/source.png"
+        "logo":"https://raw.github.com/Ayzenmentch/ayzn-explorer/Ayzn-2/public/logos/source.png"
     }],
     "addr_prefix": "source",
-    "logo": "https://raw.github.com/Ayzenmentch/ayzn-explorer/blob/Ayzn-2/public/logos/ollo.png"
+    "logo":"https://raw.github.com/Ayzenmentch/ayzn-explorer/Ayzn-2/public/logos/source.png"
 }
