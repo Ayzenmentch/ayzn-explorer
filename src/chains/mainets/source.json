@@ -1,0 +1,17 @@
+{
+"chain_name": "ollo",
+    "api": ["api": https://testnet.sourceprotocol.io:1317"],
+    "rpc": ["rpc": ["https://testnet.sourceprotocol.io:26657"],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "assets": [{
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "https://github.com/Ayzenmentch/ayzn-explorer/blob/Ayzn-2/public/logos/source.png"
+    }],
+    "addr_prefix": "source",
+    "logo": "https://github.com/Ayzenmentch/ayzn-explorer/blob/Ayzn-2/public/logos/ollo.png"
+}
