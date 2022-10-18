@@ -1,7 +1,7 @@
 {
 "chain_name": "source",
-    "api": ["api": https://source-testnet.api.kjnodes.com"],
-    "rpc": ["rpc": ["https://source-testnet.rpc.kjnodes.com"],
+    "api":["https://source-testnet.api.kjnodes.com"],
+    "rpc":["https://source-testnet.rpc.kjnodes.com"],
     "sdk_version": "0.45.1",
     "coin_type": "118",
     "min_tx_fee": "500",
